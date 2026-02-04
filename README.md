@@ -6,4 +6,4 @@
 
 ## For now
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FrancisL0001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FrancisL0001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
