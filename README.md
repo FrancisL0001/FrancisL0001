@@ -6,9 +6,10 @@ I'm an **Applied Math-Computer Science** student at **Brown University** with a 
 
 ### 🚀 What I'm Up To
 
-- 💼 **Working**: Software Engineering Intern at **Amea** — collaborating on production software for a growing startup.
-- 🔭 **Building**: An **Image Classification Web App** (ResNet50 + FastAPI) and a **LeetCode Progress Tracker** (full-stack: React + FastAPI + PostgreSQL).
-- 🌱 **Learning**: Deepening my understanding of **Full Stack Engineering**, **Applied Math**, and **Agentic AI systems**.
+- 💼 **Working**: Software Engineering Intern at **Amea** — building "chess twin" models with PyTorch: a ~9.5M-parameter move-prediction model pretrained on 1M Lichess positions, reaching 44% top-1 / 77% top-5 move accuracy (within 6% of SOTA Maia).
+- 🔭 **Building**: **Trackable**, a full-stack productivity platform for college students that unifies Canvas, Google Calendar, Gradescope, and ICS feeds into one timeline (React + TypeScript + FastAPI, 75+ automated tests).
+- 🚢 **Shipped**: A **Document Search & Tagging System** (hybrid semantic + TF-IDF retrieval with FAISS and sentence-transformers), a **LeetCode Progress Tracker** (React + FastAPI + PostgreSQL), and an **Image Classification Web App** (ResNet50 + FastAPI) — all live in production.
+- 🌱 **Learning**: Deepening my understanding of **Full Stack Engineering**, **Applied Math**, **NLP & Information Retrieval**, and **Agentic AI systems**.
 - ⚽ **Life**: When I'm not coding, you'll find me on the soccer field, at the chess board, or out on hiking trails.
 
 ### 🛠️ My Tech Stack
@@ -29,7 +30,19 @@ I'm an **Applied Math-Computer Science** student at **Brown University** with a 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+#### ML / AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+#### Cloud & CI/CD
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 #### Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -41,7 +54,7 @@ I'm an **Applied Math-Computer Science** student at **Brown University** with a 
 ### 🤝 Connect with Me
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francois-leutou-453794285)
-[<img src="https://img.shields.io/badge/resume-%23000000.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](Francois_Leutou_Resume_Tech.pdf)
+[<img src="https://img.shields.io/badge/resume-%23000000.svg?&style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />](Francois_Leutou_Resume.pdf)
 
 ---
 
